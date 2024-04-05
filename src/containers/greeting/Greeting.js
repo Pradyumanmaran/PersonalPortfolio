@@ -40,13 +40,19 @@ export default function Greeting() {
               <SocialMedia />
               <div className="button-greeting-div">
                 <Button text="Contact me" href="#contact" />
+                <a href={greeting.resumeLink} download="PradyumanResume.pdf" rel="noopener noreferrer"
+                 style={{ textDecoration: 'none' }}>
+     
+  
                 {greeting.resumeLink && (
                   <Button
                     text="See my resume"
                     newTab={true}
-                    href={greeting.resumeLink}
-                  />
-                )}
+                      href={greeting.resumeLink}
+                      style={{ textDecoration: 'none' }}
+                    />
+                  
+                )}  </a>
               </div>
             </div>
           </div>
