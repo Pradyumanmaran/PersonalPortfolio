@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/PersonalPortfolio/static/css/main.dde199ee.css",
+    "main.js": "/PersonalPortfolio/static/js/main.ed9a1a33.js",
+    "static/css/64.bba8fa55.chunk.css": "/PersonalPortfolio/static/css/64.bba8fa55.chunk.css",
+    "static/js/64.56dc6704.chunk.js": "/PersonalPortfolio/static/js/64.56dc6704.chunk.js",
+    "static/css/769.b3cbb36b.chunk.css": "/PersonalPortfolio/static/css/769.b3cbb36b.chunk.css",
+    "static/js/769.3b5a1464.chunk.js": "/PersonalPortfolio/static/js/769.3b5a1464.chunk.js",
+    "static/media/weather.png": "/PersonalPortfolio/static/media/weather.d60ce0bf669311e9e14b.png",
+    "static/media/Montserrat-Regular.ttf": "/PersonalPortfolio/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/calculator.png": "/PersonalPortfolio/static/media/calculator.9c7fca95a7c071495beb.png",
+    "static/media/Agustina.woff": "/PersonalPortfolio/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/Pradyuman.pdf": "/PersonalPortfolio/static/media/Pradyuman.46aa48d673052e4cd9ac.pdf",
+    "static/media/manOnTable.svg": "/PersonalPortfolio/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
+    "static/media/contactMailDark.svg": "/PersonalPortfolio/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
+    "static/media/quoraLogo.png": "/PersonalPortfolio/static/media/quoraLogo.85eb29f4d52320c8ed99.png",
+    "static/media/developerActivity.svg": "/PersonalPortfolio/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
+    "static/media/facebookLogo.png": "/PersonalPortfolio/static/media/facebookLogo.f46d68b24e9b4f73ee8b.png",
+    "static/media/skill.svg": "/PersonalPortfolio/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
+    "index.html": "/PersonalPortfolio/index.html",
+    "main.dde199ee.css.map": "/PersonalPortfolio/static/css/main.dde199ee.css.map",
+    "main.ed9a1a33.js.map": "/PersonalPortfolio/static/js/main.ed9a1a33.js.map",
+    "64.bba8fa55.chunk.css.map": "/PersonalPortfolio/static/css/64.bba8fa55.chunk.css.map",
+    "64.56dc6704.chunk.js.map": "/PersonalPortfolio/static/js/64.56dc6704.chunk.js.map",
+    "769.b3cbb36b.chunk.css.map": "/PersonalPortfolio/static/css/769.b3cbb36b.chunk.css.map",
+    "769.3b5a1464.chunk.js.map": "/PersonalPortfolio/static/js/769.3b5a1464.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dde199ee.css",
+    "static/js/main.ed9a1a33.js"
+  ]
+}
