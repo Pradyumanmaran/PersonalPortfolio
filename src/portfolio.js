@@ -234,7 +234,8 @@ const bigProjects = {
     {
       image: require("./assets/images/dashboard.png"),
       projectName: "firebase integrated E-commerce admin website",
-      projectDesc: "Created a fully functional e-commerce website with Firebase integration, providing CRUD operations for products.",
+      projectDesc:
+        "Created a fully functional e-commerce website with Firebase integration, providing CRUD operations for products.",
       footerLink: [
         {
           name: "Visit Website",
@@ -246,7 +247,8 @@ const bigProjects = {
     {
       image: require("./assets/images/Anime.png"),
       projectName: "Anime Database",
-      projectDesc: "Developed a ReactJS-based application that serves as a comprehensive anime database. Utilized ReactJS for the frontend to create an interactive user interface. Fetched and dis- played anime data, showcasing proficiency in handling API integration and dynamic content rendering.",
+      projectDesc:
+        "Developed a ReactJS-based application that serves as a comprehensive anime database. Utilized ReactJS for the frontend to create an interactive user interface. Fetched and dis- played anime data, showcasing proficiency in handling API integration and dynamic content rendering.",
       footerLink: [
         {
           name: "Visit Website",
@@ -258,7 +260,8 @@ const bigProjects = {
     {
       image: require("./assets/images/Quiz.png"),
       projectName: "Quiz",
-      projectDesc: "Developed a quiz application utilizing an API for fetching questions and answers. Userscan participate in quizzes and get instant feedback on their answers.",
+      projectDesc:
+        "Developed a quiz application utilizing an API for fetching questions and answers. Userscan participate in quizzes and get instant feedback on their answers.",
       footerLink: [
         {
           name: "Visit Website",
@@ -266,7 +269,7 @@ const bigProjects = {
         }
         //  you can add extra buttons here.
       ]
-    },
+    }
   ],
   display: true // Set false to hide this section, defaults to true
 };
