@@ -127,8 +127,8 @@ const educationInfo = {
       logo: require("./assets/images/kprlogo.jpg"),
       subHeader: "Bachelor of Civil engineering ",
       duration: "September 2017 - June 2021",
-      desc: "Participated in the research of selg healing Concrete and published 3 papers.",
-      descBullets: ["Represnted the college football team"]
+      desc: "Participated in the research of self healing Concrete and published 3 papers.",
+      descBullets: ["Represented the college football team"]
     }
     // {
     //   schoolName: "Stanford University",
@@ -170,7 +170,7 @@ const workExperiences = {
     {
       role: "Quality control engineer",
       company: "KNR Construction",
-      companylogo: require("./assets/images/facebookLogo.png"),
+      companylogo: require("./assets/images/KNR.png"),
       date: "June 2021 – Nov 2023",
       desc: "KNR Construction, coimbatore, Checked materials, Updated DPR, Conducted assessments, Corrective  and preventive actions, maintaining engineering specifications. Increased product efficiency by percent",
       descBullets: [
@@ -180,7 +180,7 @@ const workExperiences = {
     {
       role: "Front-End Developer",
       company: "Inforvio Technologies",
-      companylogo: require("./assets/images/quoraLogo.png"),
+      companylogo: require("./assets/images/inforvio.jpg"),
       date: "Feb 2024 – present",
       desc: " Inforvio Technologies, Coimbatore, Created a multistep, multistage validation form with photo  upload functionality. Implemented conditions for onboarding acceptance. Increased product efficiency   by 20 percent"
     }
@@ -206,7 +206,7 @@ const openSource = {
 
 const bigProjects = {
   title: "   Projects",
-  subtitle: "Some projects I did on my lesiure timw",
+  subtitle: "Some projects I did on my Free time",
   projects: [
     {
       image: require("./assets/images/calculator.png"),
@@ -230,7 +230,43 @@ const bigProjects = {
           url: "https://pradyumanmaran.github.io/weather1/"
         }
       ]
-    }
+    },
+    {
+      image: require("./assets/images/dashboard.png"),
+      projectName: "firebase integrated E-commerce admin website",
+      projectDesc: "Created a fully functional e-commerce website with Firebase integration, providing CRUD operations for products.",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "https://pradyumanmaran.github.io/dashboard/"
+        }
+        //  you can add extra buttons here.
+      ]
+    },
+    {
+      image: require("./assets/images/Anime.png"),
+      projectName: "Anime Database",
+      projectDesc: "Developed a ReactJS-based application that serves as a comprehensive anime database. Utilized ReactJS for the frontend to create an interactive user interface. Fetched and dis- played anime data, showcasing proficiency in handling API integration and dynamic content rendering.",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "https://pradyumanmaran.github.io/AnimeApi/"
+        }
+        //  you can add extra buttons here.
+      ]
+    },
+    {
+      image: require("./assets/images/Quiz.png"),
+      projectName: "Quiz",
+      projectDesc: "Developed a quiz application utilizing an API for fetching questions and answers. Userscan participate in quizzes and get instant feedback on their answers.",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "https://pradyumanmaran.github.io/QuizApp/"
+        }
+        //  you can add extra buttons here.
+      ]
+    },
   ],
   display: true // Set false to hide this section, defaults to true
 };
