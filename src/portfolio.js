@@ -252,7 +252,7 @@ const bigProjects = {
       footerLink: [
         {
           name: "Visit Website",
-          url: "https://pradyumanmaran.github.io/AnimeApi/"
+          url: "https://anime-hldt.vercel.app"
         }
         //  you can add extra buttons here.
       ]
@@ -266,6 +266,19 @@ const bigProjects = {
         {
           name: "Visit Website",
           url: "https://pradyumanmaran.github.io/QuizApp/"
+        }
+        //  you can add extra buttons here.
+      ]
+    },
+    {
+      image: require("./assets/images/recipe.png"),
+      projectName: "Recipi",
+      projectDesc:
+      "Recipe Finder is a web application designed to streamline the process of discovering and organizing recipes. Built using React, this project aims to provide users with a user-friendly interface for searching, saving, and managing recipes from various sources.",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "https://recipe-finder-new.vercel.app"
         }
         //  you can add extra buttons here.
       ]
