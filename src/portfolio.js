@@ -272,9 +272,9 @@ const bigProjects = {
     },
     {
       image: require("./assets/images/recipe.png"),
-      projectName: "Recipi",
+      projectName: "Recipe",
       projectDesc:
-      "Recipe Finder is a web application designed to streamline the process of discovering and organizing recipes. Built using React, this project aims to provide users with a user-friendly interface for searching, saving, and managing recipes from various sources.",
+        "Recipe Finder is a web application designed to streamline the process of discovering and organizing recipes. Built using React, this project aims to provide users with a user-friendly interface for searching, saving, and managing recipes from various sources.",
       footerLink: [
         {
           name: "Visit Website",
